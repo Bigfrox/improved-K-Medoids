@@ -6,7 +6,6 @@ Data Mining Assignment 3, Improved K-Medoids
 from datetime import datetime
 import math
 
-from numpy import short
 
 
 
